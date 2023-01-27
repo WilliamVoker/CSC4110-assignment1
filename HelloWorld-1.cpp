@@ -1,5 +1,4 @@
-// Simple C++ program to display "Hello World"
-//Author: William Voker <williamvoker@gmail.com> 
+// Simple C++ program to display "Hello World" 
 // Header file for input output functions 
 #include<iostream>  
   
